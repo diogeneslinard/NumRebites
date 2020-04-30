@@ -3,7 +3,7 @@
 # Admita um passo para uma boa vedação, um espaçamento entre a borda e o rebite mais próximo de pelo menos uma vez e meia o diâmetro do rebite.
 # Encontre a carga F (em N) que pode ser aplicada a essa conexão que provê um fator de segurança mínimo igual a 2 para os seguintes 
 # modos de falha: cisalhamento dos rebites, esmagamento dos rebites e cisalhamento da chapa.
-
+# Importar o módulo para abrir imagens
 # Dados
 d_reb = 10           # [mm] Dado de entrada, é necessário editar
 largura_chapa = 500 
